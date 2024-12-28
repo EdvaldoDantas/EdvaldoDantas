@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EdvaldoDantas
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning C# with .Net MAUI and Asp.net Web Api
-- 📫 How to reach me ...
+- 📫 How to reach me ... you can reach me on instagram 0edvaldodantas and facebook Edvaldo Dantas
 - 😄 Pronouns: ... João
 - ⚡ Fun fact: ... i'm from Angola
 
