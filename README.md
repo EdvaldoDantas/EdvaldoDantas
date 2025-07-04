@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Edvaldo João Dantas
+# 👨🏾‍💻 Edvaldo Dantas C. João
 
 Desenvolvedor backend com foco em **C# e ASP.NET Core**, apaixonado por criar sistemas sólidos, reutilizáveis e bem arquitetados.  
 Tenho experiência com autenticação e autorização com **JWT**, **ASP.NET Identity** e acesso a dados usando **EF Core** e **Dapper**.  
