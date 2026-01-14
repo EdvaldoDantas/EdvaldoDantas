@@ -18,8 +18,8 @@ Atualmente, estou me aprofundando em **Clean Architecture**, **CQRS com MediatR*
 ### 🖥️ Frontend
 - HTML, CSS, JavaScript  
 - Vue.js  
-- Blazor  
-- TailwindCSS  
+- React Native  
+- TailwindCSS,NativeWind
 - Consumo de APIs REST + Autenticação com Token  
 
 ### 🛠️ Práticas
