@@ -70,6 +70,6 @@ A maioria dos meus projetos, estudos e experimentos estão organizados na
 
 ---
 
-> 💬 *“Buscando uma vaga como desenvolvedor backend júnior (consolidado) ou pleno iniciante, onde eu possa aplicar boas práticas e crescer contribuindo em projetos reais.”*
+> 💬 *“Buscando uma vaga como desenvolvedor backend, onde eu possa aplicar boas práticas e crescer contribuindo em projetos reais.”*
 
 
